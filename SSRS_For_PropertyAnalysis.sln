@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Competition_task_2_demo", "Competition_task_2_demo\Competition_task_2_demo.rptproj", "{91195FE8-C409-4086-BF9D-F6DE3C926F49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91195FE8-C409-4086-BF9D-F6DE3C926F49}.Debug|Default.ActiveCfg = Debug
+		{91195FE8-C409-4086-BF9D-F6DE3C926F49}.Debug|Default.Build.0 = Debug
+		{91195FE8-C409-4086-BF9D-F6DE3C926F49}.Debug|Default.Deploy.0 = Debug
+		{91195FE8-C409-4086-BF9D-F6DE3C926F49}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{91195FE8-C409-4086-BF9D-F6DE3C926F49}.DebugLocal|Default.Build.0 = DebugLocal
+		{91195FE8-C409-4086-BF9D-F6DE3C926F49}.Release|Default.ActiveCfg = Release
+		{91195FE8-C409-4086-BF9D-F6DE3C926F49}.Release|Default.Build.0 = Release
+		{91195FE8-C409-4086-BF9D-F6DE3C926F49}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84AA730B-0A93-469E-B398-2BB2A043A4D7}
+	EndGlobalSection
+EndGlobal
